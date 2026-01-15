@@ -18,7 +18,7 @@
 ---
 ## 💻 Languages & Tools I Use Most
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,flutter,dart,java,python,cpp,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,nodejs,nestjs,nextjs,express,tailwind,js,ts,mysql,mongodb,prisma,docker,git,github" />
 </p>
 
 ---
