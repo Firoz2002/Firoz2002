@@ -12,26 +12,23 @@
 
 ### 💫 Professional Summary
 
-[cite_start]I am a **Full Stack Developer** currently interning at **Prabisha Consultancy**, where I build scalable web solutions and AI-driven automation tools[cite: 4, 13, 14]. [cite_start]I specialize in creating high-performance applications using **Next.js**, **Node.js**, and **TypeScript**[cite: 4, 7, 8, 9].
+I am a **Full Stack Developer** currently interning at **Prabisha Consultancy**, where I build scalable web solutions and AI-driven automation tools. I specialize in creating high-performance applications using **Next.js**, **Node.js**, and **TypeScript**.
 
-- [cite_start]🛠️ **Current Work:** Developing AI recruitment platforms and e-commerce solutions[cite: 18, 20].
-- [cite_start]⛓️ **Interests:** Blockchain-based identity management and decentralized systems.
-- [cite_start]🎓 **Education:** Pursuing B.E. in CSIT at IES IPS Academy (CGPA: 8.5)[cite: 40, 41, 42].
-- [cite_start]🏆 **Certifications:** AWS ML Foundations, Postman API Expert, and MongoDB Developer[cite: 35, 36, 37].
+* 🛠️ **Current Work:** Developing AI recruitment platforms and e-commerce solutions.
+* ⛓️ **Interests:** Blockchain-based identity management and decentralized systems.
+* 🎓 **Education:** Pursuing B.E. in CSIT at IES IPS Academy (CGPA: 8.5).
+* 🏆 **Certifications:** AWS ML Foundations, Postman API Expert, and MongoDB Developer.
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🚀 Key Projects</h3>
-      <ul>
-        <li><b>InterviewPro:</b> AI recruitment system using LangChain[cite: 18].</li>
-        <li><b>DIMS:</b> Decentralized ID management via Solidity & Next.js[cite: 28, 29].</li>
-        <li><b>UKBiz Network:</b> Directory hosting 1000+ verified listings[cite: 17].</li>
-        <li><b>AI Moderation:</b> Social platform with AWS Rekognition filtering[cite: 25, 26].</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+---
+
+### 🚀 Key Projects
+
+| Project | Description |
+| :--- | :--- |
+| **InterviewPro** | AI recruitment system using LangChain for automated interviewing. |
+| **DIMS** | Decentralized ID management system built via Solidity & Next.js. |
+| **UKBiz Network** | A comprehensive directory hosting 1000+ verified business listings. |
+| **AI Moderation** | Social platform featuring automated AWS Rekognition filtering. |
 
 ---
 
@@ -46,7 +43,7 @@
 
 ---
 
-### 📊 Impact & Activity
+### 📊 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/firoz-kamdar-970900255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
