@@ -38,7 +38,7 @@ I am a **Full Stack Developer** currently interning at **Prabisha Consultancy**,
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=cpp,js,ts,java" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,mui" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,firebase,supabase" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,mysql,postgres,mongodb,firebase,supabase" /> |
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,pnpm,figma,postman" /> |
 
 ---
