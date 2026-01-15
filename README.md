@@ -18,7 +18,7 @@
 ---
 ## 💻 Languages & Tools I Use Most
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,nodejs,nestjs,nextjs,express,tailwind,js,ts,mysql,mongodb,prisma,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,nodejs,nestjs,nextjs,react,express,tailwind,js,ts,mysql,postgres,mongodb,supabase,prisma,docker,postman,git,github,pnpm" />
 </p>
 
 ---
