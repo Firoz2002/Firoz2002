@@ -25,6 +25,7 @@ I am a **Full Stack Developer** currently interning at **Prabisha Consultancy**,
 <p align="center">
   <img src="game.gif" />
 </p>
+
 ---
 
 ### 🚀 Key Projects
