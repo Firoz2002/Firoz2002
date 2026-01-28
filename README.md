@@ -23,7 +23,7 @@ I am a **Full Stack Developer** currently interning at **Prabisha Consultancy**,
 
 ### 🎮 Contribution Space Shooter
 <p align="center">
-  <img src="gh-space-shooter.gif" />
+  ![My GitHub Game](game.gif)
 </p>
 
 ---
